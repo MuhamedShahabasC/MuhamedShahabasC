@@ -3,7 +3,7 @@
 <br/>
 
 - 🔭 I’m currently working on a **[Hostel Management MERN](https://hostelmanagement.tech)**
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 - 👯 I’m looking to collaborate on **MERN Project (NodeJS)**
 - 🖥️  See my portfolio at **[muhamedShahabas.github.io](http://muhamedShahabas.github.io)**
 - 📫 How to reach me: **muhamedshahabasc@gmail.com**
