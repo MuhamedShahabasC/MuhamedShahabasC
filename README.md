@@ -2,7 +2,7 @@
 <h3 align="center">Hi 👋, I'm Muhamed Shahabas C</h3>
 <br/>
 
-- 🔭 I’m currently working on a **[Hostel Management MERN](https://hostelmanagement.tech)**
+<!-- - 🔭 I’m currently working on a **[Hostel Management MERN](https://hostelmanagement.tech)** -->
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 👯 I’m looking to collaborate on **MERN Project (NodeJS)**
 - 🖥️  See my portfolio at **[muhamedShahabas.github.io](http://muhamedShahabas.github.io)**
