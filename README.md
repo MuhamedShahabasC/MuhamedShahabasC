@@ -5,7 +5,7 @@
 <!-- - 🔭 I’m currently working on a **[Hostel Management MERN](https://hostelmanagement.tech)** -->
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 👯 I’m looking to collaborate on **MERN Project (NodeJS)**
-- 🖥️  See my portfolio at **[muhamedShahabas.github.io](http://muhamedShahabas.github.io)**
+- 🖥️  See my portfolio at **[muhamedShahabasC.github.io](http://muhamedShahabasC.github.io)**
 - 📫 How to reach me: **muhamedshahabasc@gmail.com**
 
 <br/>
