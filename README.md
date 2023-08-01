@@ -9,7 +9,7 @@
 - 📫 How to reach me: **muhamedshahabasc@gmail.com**
 
 <br/>
-<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhamedShahabas&show_icons=true&locale=en&layout=compact" alt="MuhamedShahabas" /></p>
+<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhamedShahabasC&show_icons=true&locale=en&layout=compact" alt="MuhamedShahabasC" /></p>
 
 ### Skills
 
